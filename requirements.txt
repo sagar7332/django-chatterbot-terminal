@@ -1,0 +1,2 @@
+Django>=5.0,<6.0
+chatterbot==1.2.13
